@@ -1,0 +1,8 @@
+{
+  "name": "RK Infinity Exim",
+  "description": "Connecting Global Markets with Quality Products. Premium Import & Export services from Pune, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
